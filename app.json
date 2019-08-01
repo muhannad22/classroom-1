@@ -15,11 +15,11 @@
       "required": true
     },
     "GITHUB_CLIENT_ID": {
-      "description": "The GitHub Application Client ID.",
+      "description": "Iv1.71696c0bfcb1b3da",
       "required": true
     },
     "GITHUB_CLIENT_SECRET": {
-      "description": "The GitHub Application Client Secret.",
+      "description": "ae7678be0d38f35a36b2d2cd021d11a5b01eeb1e",
       "required": true
     },
     "REDIS_PROVIDER": {
